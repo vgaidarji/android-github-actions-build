@@ -2,6 +2,18 @@
 
 A GitHub Action for building Android projects.
 
+Developed By
+------------
+
+* Veaceslav Gaidarji - <veaceslav.gaidarji@gmail.com>
+
+<a href="https://twitter.com/v_gaidarji">
+  <img alt="Follow me on Twitter" src="http://image.flaticon.com/icons/svg/124/124021.svg" height="40" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/veaceslavgaidarji">
+  <img alt="Add me to Linkedin" src="http://image.flaticon.com/icons/svg/124/124011.svg" height="40" width="40"/>
+</a>
+
 License
 -------
 
