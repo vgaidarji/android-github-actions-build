@@ -2,6 +2,17 @@
 
 A GitHub Action for building Android projects.
 
+# Usage
+
+```yml
+- name: "Build Android project"
+  uses: vgaidarji/android-github-actions-build@v1.0.1
+  with:
+    args: "./gradlew assembleDebug"
+```
+
+Specify via `args` the Gradle tasks to run.
+
 Developed By
 ------------
 

@@ -1,0 +1,9 @@
+name: 'Android Build'
+description: 'Build Android projects'
+author: 'Veaceslav Gaidarji <veaceslav.gaidarji@gmail.com>'
+icon: 'box'
+color: 'green'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
