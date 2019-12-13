@@ -1,4 +1,4 @@
-FROM vgaidarji/docker-android-build:1.0.0
+FROM vgaidarji/docker-android-build:v1.0.1
 
 ###################
 # GitHub Action description
